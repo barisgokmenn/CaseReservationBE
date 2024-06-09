@@ -1,0 +1,14 @@
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\bin\Debug\net8.0\CaseEptera.Reservation.Domain.deps.json
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\bin\Debug\net8.0\CaseEptera.Reservation.Domain.runtimeconfig.json
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\bin\Debug\net8.0\CaseEptera.Reservation.Domain.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\bin\Debug\net8.0\CaseEptera.Reservation.Domain.pdb
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.csproj.AssemblyReference.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.AssemblyInfoInputs.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.AssemblyInfo.cs
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\refint\CaseEptera.Reservation.Domain.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.pdb
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\CaseEptera.Reservation.Domain.genruntimeconfig.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Domain\obj\Debug\net8.0\ref\CaseEptera.Reservation.Domain.dll

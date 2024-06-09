@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aQVogMLnOckykBiySJ9oUXkfpuDlSLlKAuu6+2Gp1nE=",
+  "Source": "CaseEptera.Reservation.Api",
+  "BasePath": "_content/CaseEptera.Reservation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

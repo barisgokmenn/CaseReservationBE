@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|c:\\users\\barisgokmen\\source\\repos\\caseeptera\\caseeptera.reservation.application\\features\\roomtype\\queries\\getroomtypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|solutionrelative:caseeptera.reservation.application\\features\\roomtype\\queries\\getroomtypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|c:\\users\\barisgokmen\\source\\repos\\caseeptera\\caseeptera.reservation.application\\features\\roomquota\\commands\\updateroomquotacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|solutionrelative:caseeptera.reservation.application\\features\\roomquota\\commands\\updateroomquotacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|c:\\users\\barisgokmen\\source\\repos\\caseeptera\\caseeptera.reservation.application\\features\\reservation\\commands\\createreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88320B06-0E4B-4933-8944-E4D07B68A69D}|CaseEptera.Reservation.Application\\CaseEptera.Reservation.Application.csproj|solutionrelative:caseeptera.reservation.application\\features\\reservation\\commands\\createreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9279116B-44B0-45B9-8E5C-763D316D50C9}|CaseEptera.Reservation.Api\\CaseEptera.Reservation.Api.csproj|c:\\users\\barisgokmen\\source\\repos\\caseeptera\\caseeptera.reservation.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279116B-44B0-45B9-8E5C-763D316D50C9}|CaseEptera.Reservation.Api\\CaseEptera.Reservation.Api.csproj|solutionrelative:caseeptera.reservation.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9279116B-44B0-45B9-8E5C-763D316D50C9}|CaseEptera.Reservation.Api\\CaseEptera.Reservation.Api.csproj|c:\\users\\barisgokmen\\source\\repos\\caseeptera\\caseeptera.reservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9279116B-44B0-45B9-8E5C-763D316D50C9}|CaseEptera.Reservation.Api\\CaseEptera.Reservation.Api.csproj|solutionrelative:caseeptera.reservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\Reservation\\Commands\\CreateReservationCommand.cs",
+              "RelativeDocumentMoniker": "CaseEptera.Reservation.Application\\Features\\Reservation\\Commands\\CreateReservationCommand.cs",
+              "ToolTip": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\Reservation\\Commands\\CreateReservationCommand.cs",
+              "RelativeToolTip": "CaseEptera.Reservation.Application\\Features\\Reservation\\Commands\\CreateReservationCommand.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:10:07.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateRoomQuotaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\RoomQuota\\Commands\\UpdateRoomQuotaCommand.cs",
+              "RelativeDocumentMoniker": "CaseEptera.Reservation.Application\\Features\\RoomQuota\\Commands\\UpdateRoomQuotaCommand.cs",
+              "ToolTip": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\RoomQuota\\Commands\\UpdateRoomQuotaCommand.cs",
+              "RelativeToolTip": "CaseEptera.Reservation.Application\\Features\\RoomQuota\\Commands\\UpdateRoomQuotaCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:19:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetRoomTypeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\RoomType\\Queries\\GetRoomTypeQuery.cs",
+              "RelativeDocumentMoniker": "CaseEptera.Reservation.Application\\Features\\RoomType\\Queries\\GetRoomTypeQuery.cs",
+              "ToolTip": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Application\\Features\\RoomType\\Queries\\GetRoomTypeQuery.cs",
+              "RelativeToolTip": "CaseEptera.Reservation.Application\\Features\\RoomType\\Queries\\GetRoomTypeQuery.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:29:25.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CaseEptera.Reservation.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Api\\Program.cs",
+              "RelativeToolTip": "CaseEptera.Reservation.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA0wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:09:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Api\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "CaseEptera.Reservation.Api\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\BarisGokmen\\source\\repos\\CaseEptera\\CaseEptera.Reservation.Api\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "CaseEptera.Reservation.Api\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:37:04.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

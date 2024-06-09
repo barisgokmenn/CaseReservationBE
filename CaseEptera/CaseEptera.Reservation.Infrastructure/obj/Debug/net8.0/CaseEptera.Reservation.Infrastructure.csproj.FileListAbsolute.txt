@@ -1,0 +1,17 @@
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Infrastructure.deps.json
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Infrastructure.runtimeconfig.json
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Infrastructure.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Infrastructure.pdb
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Domain.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\bin\Debug\net8.0\CaseEptera.Reservation.Domain.pdb
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.AssemblyInfo.cs
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEpte.3E7740F9.Up2Date
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\refint\CaseEptera.Reservation.Infrastructure.dll
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.pdb
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\CaseEptera.Reservation.Infrastructure.genruntimeconfig.cache
+C:\Users\BarisGokmen\source\repos\CaseEptera\CaseEptera.Reservation.Infrastructure\obj\Debug\net8.0\ref\CaseEptera.Reservation.Infrastructure.dll

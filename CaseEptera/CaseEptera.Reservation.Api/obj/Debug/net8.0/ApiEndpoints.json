@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "CaseEptera.Reservation.Api.Controllers.ReservationController",
+    "Method": "CreateReservation",
+    "RelativePath": "api/Reservation/CreateReservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CaseEptera.Reservation.Application.Features.Reservation.Commands.CreateReservationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaseEptera.Reservation.Api.Controllers.ReservationController",
+    "Method": "GetReservation",
+    "RelativePath": "api/Reservation/GetReservation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaseEptera.Reservation.Api.Controllers.ReservationController",
+    "Method": "GetRoomType",
+    "RelativePath": "api/Reservation/GetRoomType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CaseEptera.Reservation.Application.Features.RoomType.Queries.GetRoomTypeQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CaseEptera.Reservation.Api.Controllers.ReservationController",
+    "Method": "UpdateRoomQuota",
+    "RelativePath": "api/Reservation/UpdateRoomQuota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CaseEptera.Reservation.Application.Features.RoomQuota.Commands.UpdateRoomQuotaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
